@@ -6,13 +6,13 @@ The Thycotic Secret Server Jenkins Plugin allows you to access and reference you
 
 This plugin add the ability to include Secret Server Secrets into your build environment.
 
-![build-environment](images/jenkins-build-environment.png)
+![build-environment](images/jenkins-build-environment.jpg)
 
 This is allows you to include the `Base URL` of you Secret Server and `Secret ID` you wish to access.
 
 Additionally you will need to include a valid credential provider.
 
-![add-credential](images/jenkins-credential-provider.png)
+![add-credential](images/jenkins-credential-provider.jpg)
 
 You will now have the option to change the `kind` of credential you wish to add, to that of a `SecretServer User Credentials`.
 
