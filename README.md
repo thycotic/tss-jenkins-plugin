@@ -1,4 +1,4 @@
-# Thycotic Secret Server - Terraform Provider
+# Thycotic Secret Server
 
 The Thycotic Secret Server Jenkins Plugin allows you to access and reference your Secret Server secrets for use in Jenkins builds.
 
