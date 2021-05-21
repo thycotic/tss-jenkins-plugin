@@ -35,5 +35,5 @@ jobs:
       - name: Upload HPI File
         uses: actions/upload-artifact@v1
         with:
-          name: thycotic-tss.hpi
-          path: target/thycotic-tss.hpi
+          name: tss.hpi
+          path: target/tss.hpi
