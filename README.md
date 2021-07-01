@@ -22,6 +22,10 @@ After you have added your credentials to the build environment you can can use t
 
 ## Release notes
 
+### 1.0 
+
+- Stable release published
+
 ### 1.0-SNAPSHOT
 
 - Initial release
