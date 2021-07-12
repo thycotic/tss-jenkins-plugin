@@ -30,7 +30,7 @@ public class ServerConfiguration extends GlobalConfiguration {
     public static final String DEFAULT_ENVIRONMENT_VARIABLE_PREFIX = "TSS_";
 
     /**
-     * Calls {@link hudson.ExtensionList#lookupSingleton(ServerConfiguration.class)}
+     * Calls hudson.ExtensionList#lookupSingleton(ServerConfiguration.class)
      * to get the singleton instance of this class which is how the Jenkins
      * documentation recommends that it be accessed.
      *

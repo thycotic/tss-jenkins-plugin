@@ -24,7 +24,7 @@ public class UserCredentials extends UsernamePasswordCredentialsImpl implements 
     /**
      * The credentials of this type with this credentialId that apply to this item
      *
-     * @param credentialId
+     * @param credentialId  the id of the credential
      * @param item         the optional item (context)
      * @return the credentials or {@code null} if no matching credentials exist
      */
